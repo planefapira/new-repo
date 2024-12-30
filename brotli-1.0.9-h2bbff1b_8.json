@@ -1,0 +1,41 @@
+{
+  "build": "h2bbff1b_8",
+  "build_number": 8,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "brotli-bin 1.0.9 h2bbff1b_8",
+    "libbrotlidec 1.0.9 h2bbff1b_8",
+    "libbrotlienc 1.0.9 h2bbff1b_8",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\brotli-1.0.9-h2bbff1b_8",
+  "files": [
+    "Library/include/brotli/decode.h",
+    "Library/include/brotli/encode.h",
+    "Library/include/brotli/port.h",
+    "Library/include/brotli/types.h",
+    ".nonadmin"
+  ],
+  "fn": "brotli-1.0.9-h2bbff1b_8.conda",
+  "license": "MIT",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\brotli-1.0.9-h2bbff1b_8",
+    "type": 1
+  },
+  "md5": "ea7c50c44de5fc1d54eb89cbad04cfa4",
+  "name": "brotli",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\brotli-1.0.9-h2bbff1b_8.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::brotli==1.0.9=h2bbff1b_8[md5=ea7c50c44de5fc1d54eb89cbad04cfa4]",
+  "sha256": "ae41e29e0cd1044c0d30e330ee490f6da89d8aa25e97088d8cf7ecf0c473b449",
+  "size": 19701,
+  "subdir": "win-64",
+  "timestamp": 1714483531000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/brotli-1.0.9-h2bbff1b_8.conda",
+  "version": "1.0.9"
+}
